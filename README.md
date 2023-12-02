@@ -1,4 +1,4 @@
-# Kartik shukla  : A tech enthusiast 
+# Kartik shukla  : A Learner 
 
 📧 Email: kartikshukala1707@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/kartik-shukla/](https://www.linkedin.com/in/kartik-shukla-09b29528b/)  
