@@ -1,21 +1,55 @@
-## Hi there 👋
-<html>
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE3aWVxaTRsMGY3eDJlZjJqYnJ3dmc1N2ViNDJwNmpwODV6OGt2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200"/>
 </div>
-</html>
+<h1 align="center"> Yes! This is how I code!!🙃 </h1>
+<p align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Kartik Shukla;🧑‍💻A Full Stack Web Developer;❣️Open-Source!!;Loves to learn new stuff;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+🧑‍💻About Me:<br>
+I am Currently a Student<br>
+🌱 I’m learning <b>Web Developement</b><br>
+👯 I’m looking to collaborate on <b>Open source Project.</b><br>
+📫 How to reach me <b>KartikShukla17@gmail.com</b><br>
+⚡ Fun fact <b>I am mostly High on Caffine!</b>
 
-<!--
-**kartikshukla17/kartikshukla17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Skill Set  
+<table align='center'><td valign="top" width="33%">
+  
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla17&theme=vue-dark&hide_border=true" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
+<br/> 
+
+<br/>  
+
