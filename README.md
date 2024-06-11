@@ -54,3 +54,8 @@ I am Currently a Student<br>
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
+
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kartikshukla17&&style=flat-square" align="center" />
+</div> 
