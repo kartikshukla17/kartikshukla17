@@ -46,10 +46,10 @@ I am Currently a Student<br>
 
 ## Socials
 <p align="left">
-<a href="https://twitter.com/https://x.com/kartik_shukla17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kartik_shukla17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-shukla-09b29528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-shukla-09b29528b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22725141/kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22725141/kartik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kartikshukla1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kartikshukla1707" height="30" width="40" /></a>
+<a href="https://x.com/kartik_shukla17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kartik_shukla17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-shukla-09b29528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-shukla-09b29528b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22725141/kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22725141/kartik" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kartikshukla1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kartikshukla1707" height="30" width="40" /></a>
 </p>
 
 
