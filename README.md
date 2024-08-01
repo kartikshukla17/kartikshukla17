@@ -53,6 +53,8 @@ I am Currently a Student<br>
 <a href="https://dev.to/https://dev.to/kartikshukla17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kartikshukla17" height="30" width="40" /></a>
 </p>
 
+## My Latest Blog Post
+<!-- BLOGS -->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla17&theme=vue-dark&hide_border=true" align="center" /></div>  
