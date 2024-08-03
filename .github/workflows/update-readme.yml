@@ -24,7 +24,7 @@ jobs:
           -H "Content-Type: application/json" \
           -d '{"query":"{user(username: \"kartikshukla\") {publication {posts(page: 0) {title, brief, slug}}}}"}' \
           https://api.hashnode.com/ \
-          > response.json
+          -o response.json || { echo "Curl failed"; cat response.json; exit 1; }
 
     - name: Print response.json for debugging
       run: cat response.json
