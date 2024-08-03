@@ -54,7 +54,7 @@ I am Currently a Student<br>
 </p>
 
 ## My Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla17&theme=vue-dark&hide_border=true" align="center" /></div>  
