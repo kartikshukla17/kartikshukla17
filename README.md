@@ -55,6 +55,7 @@ I am Currently a Student<br>
 
 ## My Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Web Development! Why and How I am doing it!?](https://kartikshukla.hashnode.dev/web-development-why-and-how-i-am-doing-it)
 - [Hello!  Hello! Who am i?](https://kartikshukla.hashnode.dev/hello-hello-who-am-i)
 <!-- BLOG-POST-LIST:END -->
 
