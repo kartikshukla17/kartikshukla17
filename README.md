@@ -55,6 +55,7 @@ I am Currently a Student<br>
 
 ## My Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s That Time of the Year Again - Hacktoberfest is Here!🔥](https://kartikshukla.hashnode.dev/its-that-time-of-the-year-again-hacktoberfest-is-here)
 - [What is Github&#39;s Student Pack!?](https://kartikshukla.hashnode.dev/what-is-githubs-student-pack)
 - [Web Development! Why and How I am doing it!?](https://kartikshukla.hashnode.dev/web-development-why-and-how-i-am-doing-it)
 - [Hello!  Hello! Who am i?](https://kartikshukla.hashnode.dev/hello-hello-who-am-i)
