@@ -83,7 +83,7 @@
 
 ## 🎧 Music Vibes
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&theme=default&show_offline=false" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mqlztrjmh5shsm2eafugkkfd5q" />
 </div>
 
 ---
