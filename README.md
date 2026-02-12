@@ -77,7 +77,7 @@
 ## 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikshukla17&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=kartikshla17&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=kartikshukla17&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 
