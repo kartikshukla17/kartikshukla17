@@ -76,14 +76,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshukla17&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kartikshukla17&theme=vue-dark" />
 </div>
 
 ---
 
 ## 🎧 Music Vibes
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&cover_image=true&theme=default&show_offline=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&theme=default&show_offline=false" />
 </div>
 
 ---
