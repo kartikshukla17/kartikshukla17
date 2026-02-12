@@ -81,10 +81,11 @@
 
 ---
 
-## 🎧 Music Vibes
+## 🎧 Currently Vibing To
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mqlztrjmh5shsm2eafugkkfd5q" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&cover_image=true&theme=novatorem" />
 </div>
+
 
 ---
 
