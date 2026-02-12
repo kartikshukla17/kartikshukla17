@@ -5,7 +5,8 @@
 <h1 align="center">Yes! This is how I code!! 🙃</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Kartik+Shukla;+🧑‍💻Full+Stack+Web+Developer;+💖Open+Source+Lover;+Always+Learning;&font=Fira%20Code&center=true&width=500&height=60&duration=4000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=600&lines=Hi!+I'm+Kartik+Shukla;Full+Stack+Web+Developer;Open++Source+Enthusiast;Always+Learning" />
+
 </p>
 
 ---
