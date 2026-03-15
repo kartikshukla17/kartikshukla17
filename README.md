@@ -38,7 +38,7 @@ When I'm not building Nearhands, I'm:
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kartikshukla17&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikshukla17&hide_border=true)]
 
 ---
 
