@@ -38,8 +38,12 @@ When I'm not building Nearhands, I'm:
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikshukla17&hide_border=true)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=kartikshukla17&hide_border=true)
 
 ---
+## 🎧 Currently Vibing To
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mqlztrjmh5shsm2eafugkkfd5q&cover_image=true&theme=novatorem" />
+</div>
 
 > *"It works on my machine" is not a deployment strategy. Learned that the hard way.*
