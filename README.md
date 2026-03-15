@@ -38,9 +38,7 @@ When I'm not building Nearhands, I'm:
 
 ## GitHub Stats
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikshukla17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshukla17&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kartikshukla17&theme=tokyonight&hide_border=true)
 
 ---
 
