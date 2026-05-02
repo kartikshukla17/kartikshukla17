@@ -8,13 +8,14 @@ Currently a CS undergrad @ BIT Bangalore, spending most of my time writing backe
 
 ## What I'm building
 
-**[Nearhands](https://kartikshukla.tech)** — A home services booking platform where users upload photos of broken things and get matched with someone who can un-break them. Real-time provider matching, multilingual notifications, OTP job verification, end-to-end payment flow. The whole circus.
+**[Nudge](https://heynudge.in)** — An embeddable AI-guided walkthrough SDK that lives inside your app. Drop in ~17KB, get a shadow-DOM cursor pointing at real buttons while an LLM agent harness
+  plans, matches, tweaks, or generates flows on the fly. Vector matching with pgvector, prompt-versioned LLM calls, exact + semantic caching, per-tenant budgets, OTel-traced replay
+  blobs. The whole circus.
 
-When I'm not building Nearhands, I'm:
-- Writing webhook handlers and praying they're idempotent enough
-- Turning 3 AM "what if..." thoughts into half-baked GitHub repos
-- Convincing myself that *this* refactor is the last one
-
+  When I'm not building Nudge, I'm:
+  - Writing prompts and praying the JSON parses on the first try
+  - Turning 3 AM "what if..." thoughts into half-baked GitHub repos
+  - Convincing myself that this refactor of the agent pipeline is the last one
 ---
 
 ## What I actually do
