@@ -31,7 +31,7 @@ Currently a CS undergrad @ BIT Bangalore, spending most of my time writing backe
 
 ## Find me elsewhere
 
-- **Website:** [kartikshukla.tech](https://kartikshukla.tech)
+- **Website:** [kartikshukla.dev](https://kartikshukla.dev)
 - **LinkedIn:** [linkedin.com/in/kartikshukla17](https://linkedin.com/in/kartikshukla17)
 - **GitHub:** you're already here, good job
 
